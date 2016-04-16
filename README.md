@@ -24,8 +24,8 @@ Recipes to give to your computer to “cook” up some awesome things for you on
 (Brace yourself...)
 
 #### Please set up the following:
-* A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (chrome.google.com))
-* A text editor to modify your files (Recommend the Atom text editor: [Atom.io](atom.io))
+* A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (http://chrome.google.com))
+* A text editor to modify your files (Recommend the Atom text editor: [Atom.io](http://atom.io))
 * Download the tutorial files on this page within the zip file  
 
 #### Download the files for this class:
@@ -36,7 +36,7 @@ Recipes to give to your computer to “cook” up some awesome things for you on
 5. From Atom: 
 - File > open, select the folder and then click "Open"
 - If the file tree does not appear on the left hand View > Toggle Tree View -- this will show you the entire folder within Atom
-6. *Now if you already know some of what we're talking about,* you're all set to poke around in the files -- index.html and CSS/style.css are the two files we will using.
+6. *Now if you already know some of what we're talking about,* you're all set to poke around in the files -- `index.html` and `CSS/style.css` are the two files we will using.
 
 Patience! Setting up your computer takes time and can be tricky, especially across platforms.
 
