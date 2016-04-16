@@ -1,5 +1,5 @@
 # Learn to Code HTML & CSS
-Brought to you by Galvanize. Learn more about the way we teach code at (galvanize.com)[galvanize.com].
+Brought to you by Galvanize. Learn more about the way we teach code at [galvanize.com](http://galvanize.com).
 
 ## Overview
 The goal of this brief course is to provide you with a fun introduction to the world of web development, starting with HTML and CSS. 
@@ -134,7 +134,7 @@ CSS:
 ```
 IDs are used to direct functions to unique elements in the HTML so that there’s no confusion
 
-&e.g clicking to a specific part of page*
+*e.g clicking to a specific part of page*
 
 #### What are Classes?
 
